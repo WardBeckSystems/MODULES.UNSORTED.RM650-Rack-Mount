@@ -1,5 +1,5 @@
 # 19xx - RM650 - file.jpg
-Wiki page: [RM650](../../../PAGES/RM650.md)
+Wiki page: [RM650](../../../../PAGES/RM650.md)
 
 
 - **Year:** unknown (unknown)
@@ -99,7 +99,7 @@ zi3
 
 ```json
 {
- "file": "Modules/UNSORTED/RM650/19xx - RM650 - file.jpg",
+ "file": "Modules/UNSORTED/RM650/MANUALS/19xx - RM650 - file.jpg",
  "sha256": "4c0f054903a0f4ff6c42f7d1a60bf749a22546697e5f1d5eefc83b64db0aada5",
  "kind": "module",
  "models": [

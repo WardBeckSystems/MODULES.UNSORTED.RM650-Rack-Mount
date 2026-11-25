@@ -47,3 +47,9 @@
 [sS][cC][aA][nN]/
 *(traced).dxf
 *([tT][rR][aA][cC][eE][dD]).*
+# …but these are the archive's own drawings, not scans: kept
+!*(EXTRACTED).svg
+!MECHANICAL/* - front panel.svg
+!PINOUTS/*.svg
+!PINOUTS/* - RTO-144 Connections.pdf
+!KICAD/**
