@@ -1,6 +1,6 @@
 # RM650 Rack Mount · Unsorted
 
-Ward-Beck Systems RM650. Wiki page: [RM650 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/RM650.html)
+Ward-Beck Systems RM650. Wiki page: [RM650 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.RM650-Rack-Mount/)
 
 | Folder | What is in it | Files |
 |---|---|---|

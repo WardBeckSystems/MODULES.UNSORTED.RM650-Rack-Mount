@@ -1,5 +1,5 @@
 # 19xx - RM650 - file.jpg
-Wiki page: [RM650](../../../../PAGES/RM650.md)
+Wiki page: [RM650](../)
 
 
 - **Year:** unknown (unknown)
